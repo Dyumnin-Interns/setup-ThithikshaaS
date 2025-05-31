@@ -1,5 +1,5 @@
 import cocotb
-from cocotb.triggers import Timer, Rising Edge
+from cocotb.triggers import Timer
 
 
 @cocotb.test()
